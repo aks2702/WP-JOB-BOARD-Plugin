@@ -1,0 +1,1158 @@
+# Copyright (C) 2023 WP Job Board
+# This file is distributed under the same license as the WP Job Board package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Job Board 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-07 12:00+0000\n"
+"PO-Revision-Date: 2023-12-07 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-job-board.php:45
+msgid "Job Board"
+msgstr ""
+
+#: wp-job-board.php:46
+msgid "Job Boards"
+msgstr ""
+
+#: wp-job-board.php:47
+msgid "All Job Listings"
+msgstr ""
+
+#: wp-job-board.php:48
+msgid "View Job Listing"
+msgstr ""
+
+#: wp-job-board.php:49
+msgid "Add New Job Listing"
+msgstr ""
+
+#: wp-job-board.php:50
+msgid "Edit Job Listing"
+msgstr ""
+
+#: wp-job-board.php:51
+msgid "New Job Listing"
+msgstr ""
+
+#: wp-job-board.php:52
+msgid "Search Job Listings"
+msgstr ""
+
+#: wp-job-board.php:53
+msgid "No job listings found"
+msgstr ""
+
+#: wp-job-board.php:54
+msgid "No job listings found in Trash"
+msgstr ""
+
+#: wp-job-board.php:55
+msgid "Parent Job Listing:"
+msgstr ""
+
+#: wp-job-board.php:68
+msgid "Application"
+msgstr ""
+
+#: wp-job-board.php:69
+msgid "Applications"
+msgstr ""
+
+#: wp-job-board.php:70
+msgid "All Applications"
+msgstr ""
+
+#: wp-job-board.php:71
+msgid "View Application"
+msgstr ""
+
+#: wp-job-board.php:72
+msgid "Add New Application"
+msgstr ""
+
+#: wp-job-board.php:73
+msgid "Edit Application"
+msgstr ""
+
+#: wp-job-board.php:74
+msgid "New Application"
+msgstr ""
+
+#: wp-job-board.php:75
+msgid "Search Applications"
+msgstr ""
+
+#: wp-job-board.php:76
+msgid "No applications found"
+msgstr ""
+
+#: wp-job-board.php:77
+msgid "No applications found in Trash"
+msgstr ""
+
+#: wp-job-board.php:78
+msgid "Parent Application:"
+msgstr ""
+
+#: includes/class-database.php:25
+msgid "Failed to create database tables: %s"
+msgstr ""
+
+#: includes/class-post-types.php:45
+msgid "Job Listings"
+msgstr ""
+
+#: includes/class-post-types.php:46
+msgid "Job Listing"
+msgstr ""
+
+#: includes/class-post-types.php:47
+msgid "Add New Job"
+msgstr ""
+
+#: includes/class-post-types.php:48
+msgid "Edit Job"
+msgstr ""
+
+#: includes/class-post-types.php:49
+msgid "New Job"
+msgstr ""
+
+#: includes/class-post-types.php:50
+msgid "View Job"
+msgstr ""
+
+#: includes/class-post-types.php:51
+msgid "Search Jobs"
+msgstr ""
+
+#: includes/class-post-types.php:52
+msgid "No jobs found"
+msgstr ""
+
+#: includes/class-post-types.php:53
+msgid "No jobs found in Trash"
+msgstr ""
+
+#: includes/class-post-types.php:54
+msgid "All Jobs"
+msgstr ""
+
+#: includes/class-post-types.php:55
+msgid "Job Archives"
+msgstr ""
+
+#: includes/class-post-types.php:56
+msgid "Insert into job description"
+msgstr ""
+
+#: includes/class-post-types.php:57
+msgid "Uploaded to this job"
+msgstr ""
+
+#: includes/class-post-types.php:58
+msgid "Job list"
+msgstr ""
+
+#: includes/class-post-types.php:59
+msgid "Job list navigation"
+msgstr ""
+
+#: includes/class-post-types.php:60
+msgid "Filter jobs list"
+msgstr ""
+
+#: includes/class-post-types.php:76
+msgid "Job Type"
+msgstr ""
+
+#: includes/class-post-types.php:77
+msgid "Job Types"
+msgstr ""
+
+#: includes/class-post-types.php:78
+msgid "All Job Types"
+msgstr ""
+
+#: includes/class-post-types.php:79
+msgid "Edit Job Type"
+msgstr ""
+
+#: includes/class-post-types.php:80
+msgid "View Job Type"
+msgstr ""
+
+#: includes/class-post-types.php:81
+msgid "Update Job Type"
+msgstr ""
+
+#: includes/class-post-types.php:82
+msgid "Add New Job Type"
+msgstr ""
+
+#: includes/class-post-types.php:83
+msgid "New Job Type Name"
+msgstr ""
+
+#: includes/class-post-types.php:84
+msgid "Parent Job Type"
+msgstr ""
+
+#: includes/class-post-types.php:85
+msgid "Parent Job Type:"
+msgstr ""
+
+#: includes/class-post-types.php:86
+msgid "Search Job Types"
+msgstr ""
+
+#: includes/class-post-types.php:87
+msgid "Popular Job Types"
+msgstr ""
+
+#: includes/class-post-types.php:88
+msgid "Separate job types with commas"
+msgstr ""
+
+#: includes/class-post-types.php:89
+msgid "Add or remove job types"
+msgstr ""
+
+#: includes/class-post-types.php:90
+msgid "Choose from the most used job types"
+msgstr ""
+
+#: includes/class-post-types.php:91
+msgid "No job types found"
+msgstr ""
+
+#: includes/class-post-types.php:92
+msgid "Back to Job Types"
+msgstr ""
+
+#: includes/class-post-types.php:93
+msgid "Job type list"
+msgstr ""
+
+#: includes/class-post-types.php:94
+msgid "Job type list navigation"
+msgstr ""
+
+#: includes/class-post-types.php:95
+msgid "Filter job type list"
+msgstr ""
+
+#: includes/class-post-types.php:111
+msgid "Job Category"
+msgstr ""
+
+#: includes/class-post-types.php:112
+msgid "Job Categories"
+msgstr ""
+
+#: includes/class-post-types.php:113
+msgid "All Job Categories"
+msgstr ""
+
+#: includes/class-post-types.php:114
+msgid "Edit Job Category"
+msgstr ""
+
+#: includes/class-post-types.php:115
+msgid "View Job Category"
+msgstr ""
+
+#: includes/class-post-types.php:116
+msgid "Update Job Category"
+msgstr ""
+
+#: includes/class-post-types.php:117
+msgid "Add New Job Category"
+msgstr ""
+
+#: includes/class-post-types.php:118
+msgid "New Job Category Name"
+msgstr ""
+
+#: includes/class-post-types.php:119
+msgid "Parent Job Category"
+msgstr ""
+
+#: includes/class-post-types.php:120
+msgid "Parent Job Category:"
+msgstr ""
+
+#: includes/class-post-types.php:121
+msgid "Search Job Categories"
+msgstr ""
+
+#: includes/class-post-types.php:122
+msgid "Popular Job Categories"
+msgstr ""
+
+#: includes/class-post-types.php:123
+msgid "Separate job categories with commas"
+msgstr ""
+
+#: includes/class-post-types.php:124
+msgid "Add or remove job categories"
+msgstr ""
+
+#: includes/class-post-types.php:125
+msgid "Choose from the most used job categories"
+msgstr ""
+
+#: includes/class-post-types.php:126
+msgid "No job categories found"
+msgstr ""
+
+#: includes/class-post-types.php:127
+msgid "Back to Job Categories"
+msgstr ""
+
+#: includes/class-post-types.php:128
+msgid "Job category list"
+msgstr ""
+
+#: includes/class-post-types.php:129
+msgid "Job category list navigation"
+msgstr ""
+
+#: includes/class-post-types.php:130
+msgid "Filter job category list"
+msgstr ""
+
+#: includes/class-post-types.php:146
+msgid "Job Location"
+msgstr ""
+
+#: includes/class-post-types.php:147
+msgid "Job Locations"
+msgstr ""
+
+#: includes/class-post-types.php:148
+msgid "All Job Locations"
+msgstr ""
+
+#: includes/class-post-types.php:149
+msgid "Edit Job Location"
+msgstr ""
+
+#: includes/class-post-types.php:150
+msgid "View Job Location"
+msgstr ""
+
+#: includes/class-post-types.php:151
+msgid "Update Job Location"
+msgstr ""
+
+#: includes/class-post-types.php:152
+msgid "Add New Job Location"
+msgstr ""
+
+#: includes/class-post-types.php:153
+msgid "New Job Location Name"
+msgstr ""
+
+#: includes/class-post-types.php:154
+msgid "Parent Job Location"
+msgstr ""
+
+#: includes/class-post-types.php:155
+msgid "Parent Job Location:"
+msgstr ""
+
+#: includes/class-post-types.php:156
+msgid "Search Job Locations"
+msgstr ""
+
+#: includes/class-post-types.php:157
+msgid "Popular Job Locations"
+msgstr ""
+
+#: includes/class-post-types.php:158
+msgid "Separate job locations with commas"
+msgstr ""
+
+#: includes/class-post-types.php:159
+msgid "Add or remove job locations"
+msgstr ""
+
+#: includes/class-post-types.php:160
+msgid "Choose from the most used job locations"
+msgstr ""
+
+#: includes/class-post-types.php:161
+msgid "No job locations found"
+msgstr ""
+
+#: includes/class-post-types.php:162
+msgid "Back to Job Locations"
+msgstr ""
+
+#: includes/class-post-types.php:163
+msgid "Job location list"
+msgstr ""
+
+#: includes/class-post-types.php:164
+msgid "Job location list navigation"
+msgstr ""
+
+#: includes/class-post-types.php:165
+msgid "Filter job location list"
+msgstr ""
+
+#: includes/class-post-types.php:181
+msgid "Applications"
+msgstr ""
+
+#: includes/class-post-types.php:182
+msgid "Application"
+msgstr ""
+
+#: includes/class-post-types.php:183
+msgid "Add New Application"
+msgstr ""
+
+#: includes/class-post-types.php:184
+msgid "Edit Application"
+msgstr ""
+
+#: includes/class-post-types.php:185
+msgid "New Application"
+msgstr ""
+
+#: includes/class-post-types.php:186
+msgid "View Application"
+msgstr ""
+
+#: includes/class-post-types.php:187
+msgid "Search Applications"
+msgstr ""
+
+#: includes/class-post-types.php:188
+msgid "No applications found"
+msgstr ""
+
+#: includes/class-post-types.php:189
+msgid "No applications found in Trash"
+msgstr ""
+
+#: includes/class-post-types.php:190
+msgid "All Applications"
+msgstr ""
+
+#: includes/class-post-types.php:191
+msgid "Application Archives"
+msgstr ""
+
+#: includes/class-post-types.php:192
+msgid "Insert into application description"
+msgstr ""
+
+#: includes/class-post-types.php:193
+msgid "Uploaded to this application"
+msgstr ""
+
+#: includes/class-post-types.php:194
+msgid "Application list"
+msgstr ""
+
+#: includes/class-post-types.php:195
+msgid "Application list navigation"
+msgstr ""
+
+#: includes/class-post-types.php:196
+msgid "Filter applications list"
+msgstr ""
+
+#: includes/class-shortcodes.php:45
+msgid "Job Listings"
+msgstr ""
+
+#: includes/class-shortcodes.php:46
+msgid "No job listings found."
+msgstr ""
+
+#: includes/class-shortcodes.php:65
+msgid "Apply Now"
+msgstr ""
+
+#: includes/class-shortcodes.php:66
+msgid "Application Form"
+msgstr ""
+
+#: includes/class-shortcodes.php:67
+msgid "Submit Application"
+msgstr ""
+
+#: includes/class-shortcodes.php:68
+msgid "Your application has been submitted successfully!"
+msgstr ""
+
+#: includes/class-shortcodes.php:69
+msgid "There was an error submitting your application. Please try again."
+msgstr ""
+
+#: includes/class-shortcodes.php:70
+msgid "Please fill in all required fields."
+msgstr ""
+
+#: includes/class-shortcodes.php:88
+msgid "HR Dashboard"
+msgstr ""
+
+#: includes/class-shortcodes.php:89
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: includes/class-ajax-handler.php:45
+msgid "Invalid nonce."
+msgstr ""
+
+#: includes/class-ajax-handler.php:50
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: includes/class-ajax-handler.php:65
+msgid "Application status updated successfully."
+msgstr ""
+
+#: includes/class-ajax-handler.php:66
+msgid "Failed to update application status."
+msgstr ""
+
+#: includes/class-ajax-handler.php:85
+msgid "Application deleted successfully."
+msgstr ""
+
+#: includes/class-ajax-handler.php:86
+msgid "Failed to delete application."
+msgstr ""
+
+#: includes/class-hr-manager.php:45
+msgid "HR Manager"
+msgstr ""
+
+#: includes/class-hr-manager.php:46
+msgid "Recruiter"
+msgstr ""
+
+#: includes/class-hr-manager.php:65
+msgid "HR Dashboard - Overview"
+msgstr ""
+
+#: includes/class-hr-manager.php:66
+msgid "HR Dashboard - Applications"
+msgstr ""
+
+#: includes/class-hr-manager.php:67
+msgid "HR Dashboard - Recruiters"
+msgstr ""
+
+#: includes/class-hr-manager.php:68
+msgid "HR Dashboard - Import"
+msgstr ""
+
+#: includes/class-hr-manager.php:69
+msgid "Welcome back, %s! Here's what's happening with your job board today."
+msgstr ""
+
+#: includes/class-hr-manager.php:70
+msgid "Total Jobs"
+msgstr ""
+
+#: includes/class-hr-manager.php:71
+msgid "Total Applications"
+msgstr ""
+
+#: includes/class-hr-manager.php:72
+msgid "Pending Applications"
+msgstr ""
+
+#: includes/class-hr-manager.php:73
+msgid "Recruiters"
+msgstr ""
+
+#: includes/class-hr-manager.php:74
+msgid "Quick Actions"
+msgstr ""
+
+#: includes/class-hr-manager.php:75
+msgid "Review Applications"
+msgstr ""
+
+#: includes/class-hr-manager.php:76
+msgid "Manage Recruiters"
+msgstr ""
+
+#: includes/class-hr-manager.php:77
+msgid "Import Applications"
+msgstr ""
+
+#: includes/class-hr-manager.php:78
+msgid "View Job Listings"
+msgstr ""
+
+#: includes/class-hr-manager.php:79
+msgid "Applications Management"
+msgstr ""
+
+#: includes/class-hr-manager.php:80
+msgid "All Applications"
+msgstr ""
+
+#: includes/class-hr-manager.php:81
+msgid "New"
+msgstr ""
+
+#: includes/class-hr-manager.php:82
+msgid "Assigned"
+msgstr ""
+
+#: includes/class-hr-manager.php:83
+msgid "Review"
+msgstr ""
+
+#: includes/class-hr-manager.php:84
+msgid "Interview"
+msgstr ""
+
+#: includes/class-hr-manager.php:85
+msgid "Rejected"
+msgstr ""
+
+#: includes/class-hr-manager.php:86
+msgid "Hired"
+msgstr ""
+
+#: includes/class-hr-manager.php:87
+msgid "Filter by status"
+msgstr ""
+
+#: includes/class-hr-manager.php:88
+msgid "Filter"
+msgstr ""
+
+#: includes/class-hr-manager.php:89
+msgid "Applicant"
+msgstr ""
+
+#: includes/class-hr-manager.php:90
+msgid "Job"
+msgstr ""
+
+#: includes/class-hr-manager.php:91
+msgid "Date"
+msgstr ""
+
+#: includes/class-hr-manager.php:92
+msgid "Status"
+msgstr ""
+
+#: includes/class-hr-manager.php:93
+msgid "Actions"
+msgstr ""
+
+#: includes/class-hr-manager.php:94
+msgid "View"
+msgstr ""
+
+#: includes/class-hr-manager.php:95
+msgid "Edit"
+msgstr ""
+
+#: includes/class-hr-manager.php:96
+msgid "Delete"
+msgstr ""
+
+#: includes/class-hr-manager.php:97
+msgid "No applications found."
+msgstr ""
+
+#: includes/class-hr-manager.php:98
+msgid "Recruiter Management"
+msgstr ""
+
+#: includes/class-hr-manager.php:99
+msgid "Add New Recruiter"
+msgstr ""
+
+#: includes/class-hr-manager.php:100
+msgid "Username"
+msgstr ""
+
+#: includes/class-hr-manager.php:101
+msgid "Email"
+msgstr ""
+
+#: includes/class-hr-manager.php:102
+msgid "Role"
+msgstr ""
+
+#: includes/class-hr-manager.php:103
+msgid "Date Registered"
+msgstr ""
+
+#: includes/class-hr-manager.php:104
+msgid "No recruiters found."
+msgstr ""
+
+#: includes/class-hr-manager.php:105
+msgid "Import Applications"
+msgstr ""
+
+#: includes/class-hr-manager.php:106
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class-csv-importer.php:45
+msgid "Please select a CSV file to import."
+msgstr ""
+
+#: includes/class-csv-importer.php:46
+msgid "Invalid file format. Please upload a CSV file."
+msgstr ""
+
+#: includes/class-csv-importer.php:47
+msgid "File is too large. Maximum size is 8MB."
+msgstr ""
+
+#: includes/class-csv-importer.php:48
+msgid "Error reading CSV file."
+msgstr ""
+
+#: includes/class-csv-importer.php:49
+msgid "Missing required columns: %s"
+msgstr ""
+
+#: includes/class-csv-importer.php:50
+msgid "Invalid job ID: %s"
+msgstr ""
+
+#: includes/class-csv-importer.php:51
+msgid "Invalid application status: %s"
+msgstr ""
+
+#: includes/class-csv-importer.php:52
+msgid "Invalid recruiter ID: %s"
+msgstr ""
+
+#: includes/class-csv-importer.php:53
+msgid "Successfully imported %d applications."
+msgstr ""
+
+#: templates/job-listings.php:45
+msgid "No job listings found."
+msgstr ""
+
+#: templates/job-listings.php:46
+msgid "View Details"
+msgstr ""
+
+#: templates/job-detail.php:45
+msgid "Job not found."
+msgstr ""
+
+#: templates/job-detail.php:46
+msgid "Apply for this position"
+msgstr ""
+
+#: templates/job-detail.php:47
+msgid "Location:"
+msgstr ""
+
+#: templates/job-detail.php:48
+msgid "Type:"
+msgstr ""
+
+#: templates/job-detail.php:49
+msgid "Category:"
+msgstr ""
+
+#: templates/job-detail.php:50
+msgid "Posted:"
+msgstr ""
+
+#: templates/application-form.php:45
+msgid "Apply for: %s"
+msgstr ""
+
+#: templates/application-form.php:46
+msgid "Full Name"
+msgstr ""
+
+#: templates/application-form.php:47
+msgid "Email Address"
+msgstr ""
+
+#: templates/application-form.php:48
+msgid "Phone Number"
+msgstr ""
+
+#: templates/application-form.php:49
+msgid "Location"
+msgstr ""
+
+#: templates/application-form.php:50
+msgid "Cover Letter"
+msgstr ""
+
+#: templates/application-form.php:51
+msgid "Upload Resume"
+msgstr ""
+
+#: templates/application-form.php:52
+msgid "Submit Application"
+msgstr ""
+
+#: templates/application-form.php:53
+msgid "Application submitted successfully!"
+msgstr ""
+
+#: templates/application-form.php:54
+msgid "Error submitting application. Please try again."
+msgstr ""
+
+#: templates/hr-dashboard.php:45
+msgid "HR Dashboard"
+msgstr ""
+
+#: templates/hr-dashboard.php:46
+msgid "Overview"
+msgstr ""
+
+#: templates/hr-dashboard.php:47
+msgid "Applications"
+msgstr ""
+
+#: templates/hr-dashboard.php:48
+msgid "Recruiters"
+msgstr ""
+
+#: templates/hr-dashboard.php:49
+msgid "Import"
+msgstr ""
+
+#: templates/hr-dashboard.php:50
+msgid "You do not have permission to access the HR dashboard."
+msgstr ""
+
+#: templates/hr-overview.php:45
+msgid "HR Dashboard - Overview"
+msgstr ""
+
+#: templates/hr-overview.php:46
+#, php-format
+msgid "Welcome back, %s! Here's what's happening with your job board today."
+msgstr ""
+
+#: templates/hr-overview.php:47
+msgid "Total Jobs"
+msgstr ""
+
+#: templates/hr-overview.php:48
+msgid "Total Applications"
+msgstr ""
+
+#: templates/hr-overview.php:49
+msgid "Pending Applications"
+msgstr ""
+
+#: templates/hr-overview.php:50
+msgid "Recruiters"
+msgstr ""
+
+#: templates/hr-overview.php:51
+msgid "Quick Actions"
+msgstr ""
+
+#: templates/hr-overview.php:52
+msgid "Review Applications"
+msgstr ""
+
+#: templates/hr-overview.php:53
+msgid "Manage Recruiters"
+msgstr ""
+
+#: templates/hr-overview.php:54
+msgid "Import Applications"
+msgstr ""
+
+#: templates/hr-overview.php:55
+msgid "View Job Listings"
+msgstr ""
+
+#: templates/hr-applications.php:45
+msgid "Applications Management"
+msgstr ""
+
+#: templates/hr-applications.php:46
+msgid "All Applications"
+msgstr ""
+
+#: templates/hr-applications.php:47
+msgid "New"
+msgstr ""
+
+#: templates/hr-applications.php:48
+msgid "Assigned"
+msgstr ""
+
+#: templates/hr-applications.php:49
+msgid "Review"
+msgstr ""
+
+#: templates/hr-applications.php:50
+msgid "Interview"
+msgstr ""
+
+#: templates/hr-applications.php:51
+msgid "Rejected"
+msgstr ""
+
+#: templates/hr-applications.php:52
+msgid "Hired"
+msgstr ""
+
+#: templates/hr-applications.php:53
+msgid "Filter by status"
+msgstr ""
+
+#: templates/hr-applications.php:54
+msgid "Filter"
+msgstr ""
+
+#: templates/hr-applications.php:55
+msgid "Applicant"
+msgstr ""
+
+#: templates/hr-applications.php:56
+msgid "Job"
+msgstr ""
+
+#: templates/hr-applications.php:57
+msgid "Date"
+msgstr ""
+
+#: templates/hr-applications.php:58
+msgid "Status"
+msgstr ""
+
+#: templates/hr-applications.php:59
+msgid "Actions"
+msgstr ""
+
+#: templates/hr-applications.php:60
+msgid "View"
+msgstr ""
+
+#: templates/hr-applications.php:61
+msgid "Edit"
+msgstr ""
+
+#: templates/hr-applications.php:62
+msgid "Delete"
+msgstr ""
+
+#: templates/hr-applications.php:63
+msgid "No applications found."
+msgstr ""
+
+#: templates/hr-recruiters.php:45
+msgid "Recruiter Management"
+msgstr ""
+
+#: templates/hr-recruiters.php:46
+msgid "Add New Recruiter"
+msgstr ""
+
+#: templates/hr-recruiters.php:47
+msgid "Username"
+msgstr ""
+
+#: templates/hr-recruiters.php:48
+msgid "Email"
+msgstr ""
+
+#: templates/hr-recruiters.php:49
+msgid "Role"
+msgstr ""
+
+#: templates/hr-recruiters.php:50
+msgid "Date Registered"
+msgstr ""
+
+#: templates/hr-recruiters.php:51
+msgid "No recruiters found."
+msgstr ""
+
+#: templates/hr-import.php:45
+msgid "Import Applications"
+msgstr ""
+
+#: templates/hr-import.php:46
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: templates/hr-import.php:47
+msgid "Security check failed."
+msgstr ""
+
+#: templates/hr-import.php:48
+#, php-format
+msgid "Successfully imported %d applications."
+msgstr ""
+
+#: templates/hr-import.php:49
+msgid "CSV Import"
+msgstr ""
+
+#: templates/hr-import.php:50
+msgid "Upload a CSV file to import job applications in bulk. Each row will be created as a new application."
+msgstr ""
+
+#: templates/hr-import.php:51
+msgid "CSV File Requirements:"
+msgstr ""
+
+#: templates/hr-import.php:52
+msgid "File format: CSV (Comma-separated values)"
+msgstr ""
+
+#: templates/hr-import.php:53
+msgid "Required columns: job_id, applicant_name, applicant_email"
+msgstr ""
+
+#: templates/hr-import.php:54
+msgid "Optional columns: application_date, status, assigned_to, message"
+msgstr ""
+
+#: templates/hr-import.php:55
+msgid "First row should contain column headers"
+msgstr ""
+
+#: templates/hr-import.php:56
+msgid "Maximum file size: 8MB"
+msgstr ""
+
+#: templates/hr-import.php:57
+msgid "Drag & Drop your CSV file here"
+msgstr ""
+
+#: templates/hr-import.php:58
+msgid "or"
+msgstr ""
+
+#: templates/hr-import.php:59
+msgid "Browse Files"
+msgstr ""
+
+#: templates/hr-import.php:60
+msgid "Import CSV"
+msgstr ""
+
+#: templates/hr-import.php:61
+msgid "Download CSV Template"
+msgstr ""
+
+#: templates/hr-import.php:62
+msgid "CSV Column Information"
+msgstr ""
+
+#: templates/hr-import.php:63
+msgid "Column Name"
+msgstr ""
+
+#: templates/hr-import.php:64
+msgid "Required"
+msgstr ""
+
+#: templates/hr-import.php:65
+msgid "Description"
+msgstr ""
+
+#: templates/hr-import.php:66
+msgid "Example"
+msgstr ""
+
+#: templates/hr-import.php:67
+msgid "The ID of the job listing"
+msgstr ""
+
+#: templates/hr-import.php:68
+msgid "Full name of the applicant"
+msgstr ""
+
+#: templates/hr-import.php:69
+msgid "Email address of the applicant"
+msgstr ""
+
+#: templates/hr-import.php:70
+msgid "Date of application (YYYY-MM-DD format)"
+msgstr ""
+
+#: templates/hr-import.php:71
+msgid "Application status: new, assigned, review, interview, rejected, hired"
+msgstr ""
+
+#: templates/hr-import.php:72
+msgid "ID of the recruiter to assign the application to"
+msgstr ""
+
+#: templates/hr-import.php:73
+msgid "Application message/cover letter"
+msgstr ""
+
+#: templates/hr-import.php:74
+msgid "Applicant phone number"
+msgstr ""
+
+#: templates/hr-import.php:75
+msgid "Applicant location"
+msgstr ""
+
+#: templates/hr-import.php:76
+msgid "URL to applicant resume (if hosted externally)"
+msgstr ""
+
+#: templates/hr-import.php:77
+msgid "Import Tips"
+msgstr ""
+
+#: templates/hr-import.php:78
+msgid "Make sure the job_id corresponds to an existing job listing."
+msgstr ""
+
+#: templates/hr-import.php:79
+msgid "For dates, use the YYYY-MM-DD format to ensure proper parsing."
+msgstr ""
+
+#: templates/hr-import.php:80
+msgid "If status is not provided, applications will be set to \"new\"."
+msgstr ""
+
+#: templates/hr-import.php:81
+msgid "The assigned_to field should contain a valid user ID of a recruiter."
+msgstr ""
+
+#: templates/hr-import.php:82
+msgid "Test with a small file first to verify your CSV format is correct."
+msgstr ""
+
+#: wp-job-board.php:200
+msgid "Settings"
+msgstr ""
